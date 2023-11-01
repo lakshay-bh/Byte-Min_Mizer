@@ -1,1 +1,2 @@
 # Byte-Min_Mizer
+Bite Min_mizer is a C++ based data compression tool that leverages the power of Huffman coding to efficiently reduce the size of digital data. Inspired by the concept of minimizing data "bites," this project aims to provide a user-friendly interface for compressing and decompressing files in various formats.
